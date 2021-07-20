@@ -11,4 +11,5 @@ module.exports = function(sequelize, DataTypes) {
     });
     return Ticket;
   };
+//the models
   
