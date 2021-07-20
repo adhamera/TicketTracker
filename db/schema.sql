@@ -1,4 +1,4 @@
-//schema
+
 CREATE DATABASE ticket_tracker_db;
 USE ticket_tracker_db;
 
