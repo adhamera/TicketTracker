@@ -100,6 +100,6 @@ This application was not developed with any tests.
 
 ## Questions:
 
-For more information about the application, please reach out to me via my [GitHub Profile](https://github.com/TomOverland).
+For more information about the application, please reach out to me via my [GitHub Profile](https://github.com/adhamera).
 
-For any other questions, please send me an email at: thomas.c.overland@gmail.com.
+For any other questions, please send me an email at: adhamera@gmail.com.
