@@ -14,9 +14,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TomOverland/Ticket-Tracker/issues"
+    "url": "https://github.com/adhamera/Ticket-Tracker/issues"
   },
-  "homepage": "https://github.com/TomOverland/Ticket-Tracker#readme",
+  "homepage": "https://github.com/adhamera/Ticket-Tracker#readme",
   "dependencies": {
     "@handlebars/allow-prototype-access": "^1.0.3",
     "bcryptjs": "^2.4.3",
