@@ -66,7 +66,7 @@ Type the following in your command line: "node server.js" and then go to the url
 * MySQL Workbench - https://www.mysql.com/
 
 ## Project Management
-This project was completed during the Fall 2020 Full Stack Web Development Bootcamp.  Our cohort used a Trello Board to track the progress of our project. We completed mockups, built HTML pages based on those mockups, and translated those HTML pages to Handlebars once complete.  We then presented this project to our Bootcamp. Below you will be able to see our project mockups and a screenshot of our Trello Board.
+This project was completed during the Full Stack Web Development Bootcamp.  Our cohort used a Trello Board to track the progress of our project. We completed mockups, built HTML pages based on those mockups, and translated those HTML pages to Handlebars once complete.  We then presented this project to our Bootcamp. Below you will be able to see our project mockups and a screenshot of our Trello Board.
 
 ### Mockups
 ![Mockup of Login](https://github.com/TomOverland/Ticket-Tracker/blob/main/public/assests/mockup-login.JPG)
