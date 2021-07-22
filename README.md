@@ -20,7 +20,7 @@ MySQL workbench can be found [here](https://dev.mysql.com/downloads/workbench/).
 
 #### Step 2 - Clone my repository
 
-In your command terminal, type the following to clone this repository: "git clone https://github.com/TomOverland/Ticket-Tracker.git"
+In your command terminal, type the following to clone this repository: "git clone https://github.com/adhamera/TicketTracker.git"
 
 #### Step 3 - Create a config.js file
 
@@ -69,9 +69,9 @@ Type the following in your command line: "node server.js" and then go to the url
 This project was completed during the Full Stack Web Development Bootcamp.  Our cohort used a Trello Board to track the progress of our project. We completed mockups, built HTML pages based on those mockups, and translated those HTML pages to Handlebars once complete.  We then presented this project to our Bootcamp. Below you will be able to see our project mockups and a screenshot of our Trello Board.
 
 ### Mockups
-![Mockup of Login](https://github.com/TomOverland/Ticket-Tracker/blob/main/public/assests/mockup-login.JPG)
-![Mockup of Home Page](https://github.com/TomOverland/Ticket-Tracker/blob/main/public/assests/mockup-results.JPG)
-![Mockup of Submit Ticket](https://github.com/TomOverland/Ticket-Tracker/blob/main/public/assests/mockup-submit.JPG)
+![Mockup of Login](https://github.com/adhamera/TicketTracker/blob/main/public/assests/mockup-login.JPG)
+![Mockup of Home Page](https://github.com/adhamera/TicketTracker/blob/main/public/assests/mockup-results.JPG)
+![Mockup of Submit Ticket](https://github.com/adhamera/TicketTracker/blob/main/public/assests/mockup-submit.JPG)
 
 ### Trello Board
 ![Screenshot of Trello Board](https://github.com/TomOverland/Ticket-Tracker/blob/main/public/assests/Trello-Board.JPG)
