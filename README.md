@@ -84,14 +84,6 @@ For more information about the license, click the link below:
 
 - [License](https://opensource.org/licenses/)
 
-## Contributors:
-
-Tom Overland: https://github.com/TomOverland  
-Nou Vang: https://github.com/nomvaa  
-Kiki Peggs: https://github.com/Arkpeggs  
-Anusha Dhamera: https://github.com/adhamera  
-Lierin Hanuman: https://github.com/LLHanuman  
-
 For details about project responsibilities, please take a look at our [Trello Board](https://trello.com/b/fwGEiE26/kanban-ticket-tracker).
 
 ## Tests:
